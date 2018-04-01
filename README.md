@@ -6,4 +6,4 @@ Simple todo app created with ReactJS
 - `npm run serve`
 
 ## Look
-![alt tag](https://lh6.googleusercontent.com/-rl1v3VzNSdb5Wwfgwg4RNxjEjfhH7_yndoy71Eb4ULKgqHoZl5xiW_9vsIgq1GwMhr1VJs_KqreTxoBYii_=w1366-h632)
+![alt tag](https://raw.githubusercontent.com/alfrizp/react-todo-app/master/__screenshot__/Screen%20Shot%202018-04-01%20at%2017.13.37.png)
